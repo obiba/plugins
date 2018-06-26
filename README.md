@@ -1,2 +1,3 @@
 # plugins
-OBiBa plugins repository.
+
+[OBiBa plugins repository](https://plugins.obiba.org)
