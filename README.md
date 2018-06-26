@@ -1,6 +1,6 @@
 ## Service Provider Interfaces
 
-OBiBa plugins are Java libraries that implement a [Service Provider Interface](https://docs.oracle.com/javase/tutorial/sound/SPI-intro.html).
+OBiBa plugins are Java libraries that implement a [Service Provider Interface (SPI)](https://docs.oracle.com/javase/tutorial/sound/SPI-intro.html).
 
 Index of available plugins: [plugins.json](plugins.json)
 
