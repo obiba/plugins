@@ -2,7 +2,7 @@
   "updated": "2018-05-24T02:45:02.085146",
   "plugins": [
     {
-      "website": "http://obiba.org",
+      "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
       "description": "Opal search engine based on Elasticsearch 2.4.5. Can be used embedded in Opal (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
@@ -16,7 +16,7 @@
       "url": "https://github.com/obiba/opal-search-es/releases/download/1.0.0/opal-search-es-1.0.0-dist.zip"
     },
     {
-      "website": "http://obiba.org",
+      "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
@@ -30,7 +30,7 @@
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.0/mica-search-es-1.1.0-dist.zip"
     },
     {
-      "website": "http://obiba.org",
+      "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
@@ -44,7 +44,7 @@
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.0/mica-search-es-1.0.0-dist.zip"
     },
     {
-      "website": "http://obiba.org",
+      "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
@@ -58,7 +58,7 @@
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"
     },
     {
-      "website": "http://obiba.org",
+      "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
       "description": "Stores VCF on file system and do some basic processing using bcftools.",
       "title": "Jennite VCF Store",
@@ -70,6 +70,48 @@
       "type": "vcf-store",
       "name": "jennite-vcf-store",
       "url": "https://github.com/obiba/jennite/releases/download/1.0.2/jennite-vcf-store-1.0.2-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Connects to a Limesurvey database to extract variables and data.",
+      "title": "Limesurvey",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.12.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-limesurvey-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-limesurvey",
+      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.0.0/opal-datasource-limesurvey-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Connects to a REDCap server to extract variables and data.",
+      "title": "REDCap",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.12.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-redcap-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-redcap",
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.0.0/opal-datasource-redcap-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a SPSS file.",
+      "title": "SPSS",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.12.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-spss-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-spss",
+      "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.0.0/opal-datasource-spss-1.0.0-dist.zip"
     }
   ]
 }
