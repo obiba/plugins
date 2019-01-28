@@ -112,6 +112,62 @@
       "type": "opal-datasource",
       "name": "opal-datasource-spss",
       "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.0.1/opal-datasource-spss-1.0.1-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads/writes variables and data from/to a delimited file using R package readr.",
+      "title": "ReadR",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.13.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-readr-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readr",
+      "url": "https://github.com/obiba/opal-datasource-readr/releases/download/1.0.0/opal-datasource-readr-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Excel file using R package readxl. Writes data to a Excel file using R package writexl.",
+      "title": "ReadXL",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.13.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-readxl-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readxl",
+      "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/1.0.0/opal-datasource-readxl-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Google Spreadsheet using R package googlesheets4. This package is still in development and only supports publicly shared documents.",
+      "title": "GoogleSheets",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.13.0",
+      "version": "1.0.0",
+      "file": "opal-datasource-googlesheets4-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-googlesheets4",
+      "url": "https://github.com/obiba/opal-datasource-googlesheets4/releases/download/1.0.0/opal-datasource-googlesheets4-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Use the validate R package to analyse Opal tables.",
+      "title": "Validate",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "2.13.0",
+      "version": "1.0.0",
+      "file": "opal-analysis-validate-1.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-analysis-validate",
+      "url": "https://github.com/obiba/opal-analysis-validate/releases/download/1.0.0/opal-analysis-validate-1.0.0-dist.zip"
     }
   ]
 }
