@@ -8,7 +8,8 @@ Index of available plugins: [plugins.json](plugins.json)
 
 * [Search Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi/src/main/java/org/obiba/opal/spi/search)
 * [VCF Store Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi/src/main/java/org/obiba/opal/spi/vcf)
-* [Datasource Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi/src/main/java/org/obiba/opal/spi/datasource)
+* [Datasource Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi/src/main/java/org/obiba/opal/spi/datasource), [R Datasource Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi-r/src/main/java/org/obiba/opal/spi/r/datasource)
+* [Analysis Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi/src/main/java/org/obiba/opal/spi/analysis), [R Analysis Plugin SPI](https://github.com/obiba/opal/tree/master/opal-spi-r/src/main/java/org/obiba/opal/spi/r/analysis)
 
 ### Mica
 
