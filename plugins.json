@@ -120,12 +120,12 @@
       "title": "ReadR",
       "license": "GPL-3",
       "author": "OBiBa",
-      "opalVersion": "2.13.0",
-      "version": "1.0.0",
-      "file": "opal-datasource-readr-1.0.0-dist.zip",
+      "opalVersion": "2.14.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-readr-1.1.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-readr",
-      "url": "https://github.com/obiba/opal-datasource-readr/releases/download/1.0.0/opal-datasource-readr-1.0.0-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-readr/releases/download/1.1.0/opal-datasource-readr-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -134,12 +134,12 @@
       "title": "ReadXL",
       "license": "GPL-3",
       "author": "OBiBa",
-      "opalVersion": "2.13.0",
-      "version": "1.0.0",
-      "file": "opal-datasource-readxl-1.0.0-dist.zip",
+      "opalVersion": "2.14.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-readxl-1.1.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-readxl",
-      "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/1.0.0/opal-datasource-readxl-1.0.0-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/1.1.0/opal-datasource-readxl-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
