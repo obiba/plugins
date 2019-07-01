@@ -78,12 +78,12 @@
       "title": "Limesurvey",
       "license": "GPL-3",
       "author": "OBiBa",
-      "opalVersion": "2.12.0",
-      "version": "1.0.0",
-      "file": "opal-datasource-limesurvey-1.0.0-dist.zip",
+      "opalVersion": "2.14.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-limesurvey-1.1.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-limesurvey",
-      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.0.0/opal-datasource-limesurvey-1.0.0-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.1.0/opal-datasource-limesurvey-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -92,12 +92,12 @@
       "title": "REDCap",
       "license": "GPL-3",
       "author": "OBiBa",
-      "opalVersion": "2.12.0",
-      "version": "1.0.7",
-      "file": "opal-datasource-redcap-1.0.7-dist.zip",
+      "opalVersion": "2.14.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-redcap-1.1.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-redcap",
-      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.0.7/opal-datasource-redcap-1.0.7-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.1.0/opal-datasource-redcap-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -106,12 +106,12 @@
       "title": "SPSS",
       "license": "GPL-3",
       "author": "OBiBa",
-      "opalVersion": "2.12.0",
-      "version": "1.0.1",
-      "file": "opal-datasource-spss-1.0.1-dist.zip",
+      "opalVersion": "2.14.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-spss-1.1.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-spss",
-      "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.0.1/opal-datasource-spss-1.0.1-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.1.0/opal-datasource-spss-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
