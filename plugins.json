@@ -163,11 +163,11 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "opalVersion": "2.13.0",
-      "version": "1.0.0",
-      "file": "opal-analysis-validate-1.0.0-dist.zip",
+      "version": "1.0.1",
+      "file": "opal-analysis-validate-1.0.1-dist.zip",
       "type": "opal-datasource",
       "name": "opal-analysis-validate",
-      "url": "https://github.com/obiba/opal-analysis-validate/releases/download/1.0.0/opal-analysis-validate-1.0.0-dist.zip"
+      "url": "https://github.com/obiba/opal-analysis-validate/releases/download/1.0.1/opal-analysis-validate-1.0.1-dist.zip"
     }
   ]
 }
