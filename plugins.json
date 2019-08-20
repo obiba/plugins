@@ -93,11 +93,11 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "opalVersion": "2.14.0",
-      "version": "1.1.0",
-      "file": "opal-datasource-redcap-1.1.0-dist.zip",
+      "version": "1.1.1",
+      "file": "opal-datasource-redcap-1.1.1-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-redcap",
-      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.1.0/opal-datasource-redcap-1.1.0-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.1.1/opal-datasource-redcap-1.1.1-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
