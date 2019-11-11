@@ -22,12 +22,12 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "title": "Mica Search ES",
-      "version": "1.1.0",
-      "file": "mica-search-es-1.1.0-dist.zip",
+      "version": "1.1.1",
+      "file": "mica-search-es-1.1.1-dist.zip ",
       "type": "mica-search",
-      "micaVersion": "3.2.0",
+      "micaVersion": "3.4.5",
       "name": "mica-search-es",
-      "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.0/mica-search-es-1.1.0-dist.zip"
+      "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.0/mica-search-es-1.1.1-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
