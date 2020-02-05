@@ -28,7 +28,35 @@
       "micaVersion": "3.7.2",
       "name": "mica-search-es",
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.2/mica-search-es-1.1.2-dist.zip"
-    },  
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "title": "Mica Search ES",
+      "version": "1.1.1",
+      "file": "mica-search-es-1.1.1-dist.zip",
+      "type": "mica-search",
+      "micaVersion": "3.4.5",
+      "name": "mica-search-es",
+      "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.1/mica-search-es-1.1.1-dist.zip"
+    },
+    {	
+      "website": "https://www.obiba.org",	
+      "maintainer": "dev@obiba.org",	
+      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",	
+      "license": "GPL-3",	
+      "author": "OBiBa",	
+      "title": "Mica Search ES",	
+      "version": "1.0.1",	
+      "file": "mica-search-es-1.0.1-dist.zip",	
+      "type": "mica-search",	
+      "micaVersion": "3.1.0",	
+      "name": "mica-search-es",	
+      "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"	
+    },       
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
