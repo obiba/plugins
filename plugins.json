@@ -18,6 +18,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Mica search engine based on Elasticsearch 7.6.1. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "title": "Mica Search ES7",
+      "version": "1.0.0",
+      "file": "mica-search-es7-1.0.0-dist.zip",
+      "type": "mica-search",
+      "micaVersion": "3.9.0",
+      "name": "mica-search-es7",
+      "url": "https://github.com/obiba/mica-search-es7/releases/download/1.0.0/mica-search-es7-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
@@ -57,19 +71,19 @@
       "name": "mica-search-es",
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.1/mica-search-es-1.1.1-dist.zip"
     },
-    {	
-      "website": "https://www.obiba.org",	
-      "maintainer": "dev@obiba.org",	
-      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",	
-      "license": "GPL-3",	
-      "author": "OBiBa",	
-      "title": "Mica Search ES",	
-      "version": "1.0.1",	
-      "file": "mica-search-es-1.0.1-dist.zip",	
-      "type": "mica-search",	
-      "micaVersion": "3.1.0",	
-      "name": "mica-search-es",	
-      "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"	
+    { 
+      "website": "https://www.obiba.org", 
+      "maintainer": "dev@obiba.org",  
+      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.", 
+      "license": "GPL-3", 
+      "author": "OBiBa",  
+      "title": "Mica Search ES",  
+      "version": "1.0.1", 
+      "file": "mica-search-es-1.0.1-dist.zip",  
+      "type": "mica-search",  
+      "micaVersion": "3.1.0", 
+      "name": "mica-search-es", 
+      "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"  
     },       
     {
       "website": "https://www.obiba.org",
