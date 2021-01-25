@@ -186,6 +186,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Connects to a REDCap server to extract variables and data.",
+      "title": "REDCap",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "3.0.0",
+      "version": "1.1.2",
+      "file": "opal-datasource-redcap-1.1.2-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-redcap",
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.1.2/opal-datasource-redcap-1.1.2-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Reads variables and data from a SPSS file.",
       "title": "SPSS",
       "license": "GPL-3",
