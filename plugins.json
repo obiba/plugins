@@ -18,6 +18,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Opal search engine based on Elasticsearch 2.4.5. Can be used embedded in Opal (default) or configured to connect to an Elasticsearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "title": "Opal Search ES",
+      "version": "1.1.0",
+      "file": "opal-search-es-1.1.0-dist.zip",
+      "type": "opal-search",
+      "name": "opal-search-es",
+      "url": "https://github.com/obiba/opal-search-es/releases/download/1.1.0/opal-search-es-1.1.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 7.6.1. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
@@ -127,20 +141,20 @@
       "name": "mica-search-es",
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.1.1/mica-search-es-1.1.1-dist.zip"
     },
-    { 
-      "website": "https://www.obiba.org", 
-      "maintainer": "dev@obiba.org",  
-      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.", 
-      "license": "GPL-3", 
-      "author": "OBiBa",  
-      "title": "Mica Search ES",  
-      "version": "1.0.1", 
-      "file": "mica-search-es-1.0.1-dist.zip",  
-      "type": "mica-search",  
-      "micaVersion": "3.1.0", 
-      "name": "mica-search-es", 
-      "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"  
-    },       
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Mica search engine based on Elasticsearch 2.4.5. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "title": "Mica Search ES",
+      "version": "1.0.1",
+      "file": "mica-search-es-1.0.1-dist.zip",
+      "type": "mica-search",
+      "micaVersion": "3.1.0",
+      "name": "mica-search-es",
+      "url": "https://github.com/obiba/mica-search-es/releases/download/1.0.1/mica-search-es-1.0.1-dist.zip"
+    },
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
@@ -172,6 +186,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Connects to a Limesurvey database to extract variables and data.",
+      "title": "Limesurvey",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.2.0",
+      "file": "opal-datasource-limesurvey-1.2.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-limesurvey",
+      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.2.0/opal-datasource-limesurvey-1.2.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Connects to a REDCap server to extract variables and data.",
       "title": "REDCap",
       "license": "GPL-3",
@@ -182,6 +210,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-redcap",
       "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.1.2/opal-datasource-redcap-1.1.2-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Connects to a REDCap server to extract variables and data.",
+      "title": "REDCap",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.2.0",
+      "file": "opal-datasource-redcap-1.2.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-redcap",
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/1.2.0/opal-datasource-redcap-1.2.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -200,6 +242,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a SPSS file.",
+      "title": "SPSS",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.2.0",
+      "file": "opal-datasource-spss-1.2.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-spss",
+      "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.2.0/opal-datasource-spss-1.2.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Reads/writes variables and data from/to a delimited file using R package readr.",
       "title": "ReadR",
       "license": "GPL-3",
@@ -210,6 +266,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-readr",
       "url": "https://github.com/obiba/opal-datasource-readr/releases/download/1.1.0/opal-datasource-readr-1.1.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads/writes variables and data from/to a delimited file using R package readr.",
+      "title": "ReadR",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.2.0",
+      "file": "opal-datasource-readr-1.2.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readr",
+      "url": "https://github.com/obiba/opal-datasource-readr/releases/download/1.2.0/opal-datasource-readr-1.2.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -228,6 +298,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Excel file using R package readxl. Writes data to a Excel file using R package writexl.",
+      "title": "ReadXL",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.2.0",
+      "file": "opal-datasource-readxl-1.2.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readxl",
+      "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/1.2.0/opal-datasource-readxl-1.2.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Reads variables and data from a Google Spreadsheet using R package googlesheets4. This package is still in development and only supports publicly shared documents.",
       "title": "GoogleSheets",
       "license": "GPL-3",
@@ -238,6 +322,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-googlesheets4",
       "url": "https://github.com/obiba/opal-datasource-googlesheets4/releases/download/1.0.0/opal-datasource-googlesheets4-1.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Google Spreadsheet using R package googlesheets4. This package is still in development and only supports publicly shared documents.",
+      "title": "GoogleSheets",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "4.0.0",
+      "version": "1.1.0",
+      "file": "opal-datasource-googlesheets4-1.1.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-googlesheets4",
+      "url": "https://github.com/obiba/opal-datasource-googlesheets4/releases/download/1.1.0/opal-datasource-googlesheets4-1.1.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
