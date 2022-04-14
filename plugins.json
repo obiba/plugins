@@ -28,7 +28,7 @@
       "micaVersion": "4.5.9",
       "name": "mica-search-es7",
       "url": "https://github.com/obiba/mica-search-es7/releases/download/1.1.0/mica-search-es7-1.1.0-dist.zip"
-    },    
+    },
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
@@ -98,7 +98,7 @@
       "micaVersion": "4.5.9",
       "name": "mica-search-es",
       "url": "https://github.com/obiba/mica-search-es/releases/download/1.3.0/mica-search-es-1.3.0-dist.zip"
-    },    
+    },
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
@@ -191,11 +191,11 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "opalVersion": "4.0.0",
-      "version": "1.2.1",
-      "file": "opal-datasource-limesurvey-1.2.1-dist.zip",
+      "version": "1.3.0",
+      "file": "opal-datasource-limesurvey-1.3.0-dist.zip",
       "type": "opal-datasource",
       "name": "opal-datasource-limesurvey",
-      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.2.1/opal-datasource-limesurvey-1.2.1-dist.zip"
+      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.3.0/opal-datasource-limesurvey-1.3.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
