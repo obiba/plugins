@@ -22,12 +22,12 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "title": "Mica Search ES7",
-      "version": "1.2.0",
-      "file": "mica-search-es7-1.2.0-dist.zip",
+      "version": "1.2.1",
+      "file": "mica-search-es7-1.2.1-dist.zip",
       "type": "mica-search",
       "micaVersion": "5.1.0",
       "name": "mica-search-es7",
-      "url": "https://github.com/obiba/mica-search-es7/releases/download/1.2.0/mica-search-es7-1.2.0-dist.zip"
+      "url": "https://github.com/obiba/mica-search-es7/releases/download/1.2.1/mica-search-es7-1.2.1-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
