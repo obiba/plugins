@@ -14,3 +14,4 @@ Index of available plugins: [plugins.json](plugins.json)
 ### Mica
 
 * [Search Plugin SPI](https://github.com/obiba/mica2/tree/master/mica-spi/src/main/java/org/obiba/mica/spi/search)
+* [Mica Tables SPSS](https://github.com/obiba/mica-tables-spss)
