@@ -36,7 +36,7 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "title": "Mica Search ES8",
-      "version": "1.0.0-rc1",
+      "version": "1.0.0",
       "file": "mica-search-es8-1.0.0-rc1-dist.zip",
       "type": "mica-search",
       "micaVersion": "6.0.0-rc1",
