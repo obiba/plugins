@@ -32,6 +32,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Mica search engine based on Elasticsearch 8.13.4 only as an Elasticsearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "title": "Mica Search ES8",
+      "version": "1.0.0-rc1",
+      "file": "mica-search-es8-1.0.0-rc1-dist.zip",
+      "type": "mica-search",
+      "micaVersion": "6.0.0-rc1",
+      "name": "mica-search-es8",
+      "url": "https://github.com/obiba/mica-search-es8/releases/download/1.0.0-rc1/mica-search-es8-1.0.0-rc1-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 7.17.6. Can be used embedded in Mica (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
