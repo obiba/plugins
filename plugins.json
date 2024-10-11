@@ -172,6 +172,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Stores VCF on file system and do some basic processing using bcftools.",
+      "title": "Jennite VCF Store",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "jennite-vcf-store-2.0.0-dist.zip",
+      "type": "vcf-store",
+      "name": "jennite-vcf-store",
+      "url": "https://github.com/obiba/jennite/releases/download/2.0.0/jennite-vcf-store-2.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Connects to a Limesurvey database to extract variables and data.",
       "title": "Limesurvey",
       "license": "GPL-3",
@@ -182,6 +196,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-limesurvey",
       "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/1.3.0/opal-datasource-limesurvey-1.3.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Connects to a Limesurvey database to extract variables and data.",
+      "title": "Limesurvey",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-limesurvey-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-limesurvey",
+      "url": "https://github.com/obiba/opal-datasource-limesurvey/releases/download/2.0.0/opal-datasource-limesurvey-2.0.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -200,6 +228,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Connects to a REDCap server to extract variables and data.",
+      "title": "REDCap",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-redcap-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-redcap",
+      "url": "https://github.com/obiba/opal-datasource-redcap/releases/download/2.0.0/opal-datasource-redcap-2.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Reads variables and data from a SPSS file.",
       "title": "SPSS",
       "license": "GPL-3",
@@ -210,6 +252,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-spss",
       "url": "https://github.com/obiba/opal-datasource-spss/releases/download/1.2.0/opal-datasource-spss-1.2.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a SPSS file.",
+      "title": "SPSS",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-spss-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-spss",
+      "url": "https://github.com/obiba/opal-datasource-spss/releases/download/2.0.0/opal-datasource-spss-2.0.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -228,6 +284,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Reads/writes variables and data from/to a delimited file using R package readr.",
+      "title": "ReadR",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-readr-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readr",
+      "url": "https://github.com/obiba/opal-datasource-readr/releases/download/2.0.0/opal-datasource-readr-2.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Reads variables and data from a Excel file using R package readxl. Writes data to a Excel file using R package writexl.",
       "title": "ReadXL",
       "license": "GPL-3",
@@ -238,6 +308,20 @@
       "type": "opal-datasource",
       "name": "opal-datasource-readxl",
       "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/1.2.0/opal-datasource-readxl-1.2.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Excel file using R package readxl. Writes data to a Excel file using R package writexl.",
+      "title": "ReadXL",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-readxl-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-readxl",
+      "url": "https://github.com/obiba/opal-datasource-readxl/releases/download/2.0.0/opal-datasource-readxl-2.0.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
@@ -256,6 +340,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Reads variables and data from a Google Spreadsheet using R package googlesheets4. This package is still in development and only supports publicly shared documents.",
+      "title": "GoogleSheets",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-datasource-googlesheets4-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-datasource-googlesheets4",
+      "url": "https://github.com/obiba/opal-datasource-googlesheets4/releases/download/2.0.0/opal-datasource-googlesheets4-2.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Use the validate R package to analyse Opal tables.",
       "title": "Validate",
       "license": "GPL-3",
@@ -266,6 +364,20 @@
       "type": "opal-datasource",
       "name": "opal-analysis-validate",
       "url": "https://github.com/obiba/opal-analysis-validate/releases/download/1.1.0/opal-analysis-validate-1.1.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
+      "description": "Use the validate R package to analyse Opal tables.",
+      "title": "Validate",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "opalVersion": "5.0.0",
+      "version": "2.0.0",
+      "file": "opal-analysis-validate-2.0.0-dist.zip",
+      "type": "opal-datasource",
+      "name": "opal-analysis-validate",
+      "url": "https://github.com/obiba/opal-analysis-validate/releases/download/2.0.0/opal-analysis-validate-2.0.0-dist.zip"
     }
   ]
 }
