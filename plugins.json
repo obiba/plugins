@@ -39,7 +39,7 @@
       "version": "2.0.0-RC1",
       "file": "mica-search-es8-2.0.0-RC1-dist.zip",
       "type": "mica-search",
-      "micaVersion": "6.0.0-rc3",
+      "micaVersion": "6.0.0-rc2",
       "name": "mica-search-es8",
       "url": "https://github.com/obiba/mica-search-es8/releases/download/2.0.0-RC1/mica-search-es8-2.0.0-RC1-dist.zip"
     },
