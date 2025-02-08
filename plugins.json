@@ -18,6 +18,20 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Mica Tables SPSS is a plugin that reads data dictionaries from SPSS files. It does not provide statistical services such as basic summaries or contingency tables.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "micaVersion": "6.0.0",
+      "title": "SPSS",
+      "version": "2.0.0",
+      "file": "mica-tables-spss-2.0.0-dist.zip",
+      "type": "mica-tables",
+      "name": "mica-tables-spss",
+      "url": "https://github.com/obiba/mica-tables-spss/releases/download/2.0.0/mica-tables-spss-2.0.0-dist.zip"
+    },
+    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Opal search engine based on Elasticsearch 2.4.5. Can be used embedded in Opal (default) or configured to connect to an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
@@ -32,16 +46,16 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
-      "description": "Mica search engine based on Elasticsearch 8.13.4 only as an Elasticsearch cluster.",
+      "description": "Mica search engine based on Elasticsearch 8.16.1 only as an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
       "title": "Mica Search ES8",
-      "version": "1.0.0-rc2",
-      "file": "mica-search-es8-1.0.0-rc2-dist.zip",
+      "version": "2.0.0",
+      "file": "mica-search-es8-2.0.0-dist.zip",
       "type": "mica-search",
-      "micaVersion": "6.0.0-rc2",
+      "micaVersion": "6.0.0",
       "name": "mica-search-es8",
-      "url": "https://github.com/obiba/mica-search-es8/releases/download/1.0.0-rc2/mica-search-es8-1.0.0-rc2-dist.zip"
+      "url": "https://github.com/obiba/mica-search-es8/releases/download/2.0.0/mica-search-es8-2.0.0-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
