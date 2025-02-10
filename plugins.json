@@ -50,12 +50,12 @@
       "license": "GPL-3",
       "author": "OBiBa",
       "title": "Mica Search ES8",
-      "version": "2.0.0",
-      "file": "mica-search-es8-2.0.0-dist.zip",
+      "version": "2.0.1",
+      "file": "mica-search-es8-2.0.1-dist.zip",
       "type": "mica-search",
       "micaVersion": "6.0.0",
       "name": "mica-search-es8",
-      "url": "https://github.com/obiba/mica-search-es8/releases/download/2.0.0/mica-search-es8-2.0.0-dist.zip"
+      "url": "https://github.com/obiba/mica-search-es8/releases/download/2.0.1/mica-search-es8-2.0.1-dist.zip"
     },
     {
       "website": "https://www.obiba.org",
