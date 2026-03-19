@@ -46,6 +46,19 @@
     {
       "website": "https://www.obiba.org",
       "maintainer": "dev@obiba.org",
+      "description": "Mica search engine based on Opensearch 2.19.0 only as an Opensearch cluster.",
+      "license": "GPL-3",
+      "author": "OBiBa",
+      "title": "Mica Search OS2",
+      "version": "1.0.0",
+      "file": "mica-search-os2-1.0.0-dist.zip",
+      "type": "mica-search",
+      "micaVersion": "6.3.0",
+      "name": "mica-search-os2",
+      "url": "https://github.com/obiba/mica-search-os2/releases/download/1.0.0/mica-search-os2-1.0.0-dist.zip"
+    },    {
+      "website": "https://www.obiba.org",
+      "maintainer": "dev@obiba.org",
       "description": "Mica search engine based on Elasticsearch 8.16.1 only as an Elasticsearch cluster.",
       "license": "GPL-3",
       "author": "OBiBa",
